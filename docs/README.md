@@ -17,6 +17,14 @@ ComMute lets you set the volume for ads and songs. Note that Spotify does not al
 
 There is also a button to play/pause Spotify, and a display of the current song. Click the current song to copy artist, title, and URL to your clipboard, for easy sharing with your friends.
 
+## Download
+
+### Intel
+You can [download ComMute.app here](https://github.com/cwverhey/ComMute/raw/main/ComMute.dmg). Built on macosx-10.15-x86_64 with Python 3.9.9, tested with Spotify for macOS (Intel) 1.1.76.447.g11f432d8. You'll probably have to accept third-party apps. Or clone git, `pip3 install rumps` and run commute.py.
+
+### Apple Silicon (M1)
+I don't have an M1 mac; you can probably use Rosetta on the Intel-app above. Or clone git, `pip3 install rumps` and run commute.py.
+
 ## How it works
 
 ComMute watches for creation of the file `ad-state-storage.bnk.tmp` in `~/Library/Application Support/Spotify/Users/<spotify user>/`. This file is created every time Spotify changes track, which triggers ComMute to request the current track info with Spotify through an AppleScript request. Depending on the track info, ComMute sends another AppleScript request to update the volume setting.
