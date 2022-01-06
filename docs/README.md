@@ -9,7 +9,7 @@ Spotify Free can be a great service. Unfortunately the ads are a true pain to th
 
 ## Usage
 
-ComMute lives in your menu bar. On every track change in Spotify, ComMute adjusts Spotify's volume. This does not adjust your overall output volume, so it doesn't interfere with other apps.
+ComMute lives in your menu bar. On every track change in Spotify, ComMute adjusts Spotify's volume. This does not influence your system volume, so it doesn't interfere with other apps.
 
 ![screenshot](screenshot.png)
 
