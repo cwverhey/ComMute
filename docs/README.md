@@ -5,7 +5,7 @@ Quieter Commercial Ads for Spotify Free on macOS
 
 &nbsp;
 
-Spotify Free can be a great service. Unfortunately the ads can be a true pain to the ears, especially when you're enjoying calmer music. ComMute for Spotify will adjust Spotify's volume whenever ads are playing.
+Spotify Free can be a great service. Unfortunately the ads are a true pain to the ears, especially when you're enjoying calmer music. ComMute for Spotify will adjust Spotify's volume whenever ads are playing.
 
 ## Usage
 
